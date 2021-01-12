@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+#preview-container{
+  border-radius: 5px;
+  border-width: 5px;
+  border-color: rgb(105, 173, 255);
+  border-style: solid;
+  height: 100%;
+}
